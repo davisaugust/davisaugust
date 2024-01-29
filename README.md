@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @davisaugust and im currently learning Js and react.
 
-[![Meu Streak de Commits](https://github-readme-streak-stats.herokuapp.com/?user=davisaugust)](https://github.com/davisaugust)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davsaugust&theme=tokyonight&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)
