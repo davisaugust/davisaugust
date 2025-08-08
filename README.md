@@ -3,7 +3,7 @@
 Atualmente, busco uma oportunidade para aplicar minhas habilidades em um ambiente corporativo, contribuindo com soluções que agreguem valor à empresa e, ao mesmo tempo, impulsionem meu crescimento profissional.</p>
 
 <h2>🚀 Experiência</h2>
-<p>Trabalhei como jovem aprendiz durante 2 anos na Belov Engenharia e, como função, eu manipulava dados e confeccionava dashboards por meio do Excel e Power BI, utilizava Python para automatizar e manipular arquivos internos e diversas outras funções que contribuiram para o meu crescimento interpessoal e profissional.</p>
+<p>Trabalhei como jovem aprendiz durante 2 anos na Belov Engenharia e, como função, eu manipulava dados e confeccionava dashboards por meio do Excel e Power BI, utilizava Python para automatizar e manipular arquivos internos e também exercia diversas outras funções que contribuiram para o meu crescimento interpessoal e profissional.</p>
 
 <h2> 💻 &nbsp;Ferramentas de desenvolvimento</h2>
 <p align="left">
